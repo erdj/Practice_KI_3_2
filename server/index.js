@@ -7,7 +7,7 @@ import router from './routes/index.js';
 
 dotenv.config();
 mongoose.set('strictQuery', true);
-
+console.log("")
 const app = express();
 const port = process.env.SERVER_PORT || 5000;
 
