@@ -1,0 +1,26 @@
+.gameDuel {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.turns {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.bottom-triangle {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.turns img {
+  width: 200px;
+  height: 100px;
+}
