@@ -1,0 +1,18 @@
+.connectRoom {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  /* gap: 20%; */
+
+  font-size: 1.5em;
+}
+
+.list {
+  background-color: #fff;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+  text-align: center;
+}

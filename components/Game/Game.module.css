@@ -1,0 +1,16 @@
+.game {
+  width: 90vw;
+  height: 90vh;
+
+  background-color: var(--default-color1);
+
+  color: var(--default-color1_text);
+
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  letter-spacing: 3px;
+  font-size: 30px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
