@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --default-color1: #36365c;
+  --default-color2: #433259;
+  --default-color3: #2e4455;
+  --default-color4: #212037;
+
+  --default-color1_text: #cacae0;
+  --default-color1_light1: #6060a2;
+  --default-color1_light2: #9595c1;
+  --default-color1_shadow1: #252540;
+  --default-color1_shadow2: #19192a;
+
+  --default-color2_text: #d3c8e0;
+  --default-color2_light1: #7a5ba2;
+  --default-color2_light2: #a691c1;
+  --default-color2_shadow1: #2e233e;
+  --default-color2_shadow2: #1f1729;
+
+  --default-color3_text: #c6d5e0;
+  --default-color3_light1: #5781a1;
+  --default-color3_light2: #8eabc2;
+  --default-color3_shadow1: #202f3b;
+  --default-color3_shadow2: #151f27;
+
+  --default-color4_text: #c2c1db;
+  --default-color4_light1: #525089;
+  --default-color4_light2: #8684b7;
+  --default-color4_shadow1: #171626;
+  --default-color4_shadow2: #0f0f19;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
